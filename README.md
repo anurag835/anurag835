@@ -40,6 +40,7 @@ I'm working with *NeoSoft Private Limited*, where I continue to expand my skill 
 ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-231F20?logo=Apache%20Kafka&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?logo=Apache%20Airflow&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=Visual%20Studio%20Code&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter%20Notebook-F37626?logo=Jupyter&logoColor=white)
 
 
 <!-- Stats -->
