@@ -45,9 +45,9 @@ I'm working with *NeoSoft Private Limited*, where I continue to expand my skill 
 <!-- Stats -->
 <h2 align="center">GitHub Stats 📈</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag835&show_icons=true&theme=radical">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=anurag835&show_icons=true&theme=radical">
+  <a href="#"><img alt="Anurag's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=anurag835&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="430px"></a>
+  <a href="#"><img alt="Anurag's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anurag835&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&hide=Jupyter%20notebook,less&bg_color=151515&title_color=f2f2f2&icon_color=79fe96" height="192px" width="360px"></a><br>
+<!--   <b>Note:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i> -->
 </p>
 
 <!-- Trophies -->
@@ -65,10 +65,10 @@ I'm working with *NeoSoft Private Limited*, where I continue to expand my skill 
 <!-- Contact -->
 <h2 align="center">🌐 Let's Connect!</h2>
 
-- 💬 Want to discuss AI, share ideas, or collaborate on a project? Feel free to reach out to me!
+- 💬 Want to discuss about technologies, share ideas, or collaborate on a project? Feel free to reach out to me!
 - 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/anuragkumar15/) for more about my professional journey.
 - 📧 You can also reach me via email at [anuragss2311@gmail.com](mailto:anuragss2311@gmail.com).
-- 📈 Check my resume here Resume.
+- 📈 Check my resume here [Resume](https://drive.google.com/file/d/1aaiuMZB2bZ97YqnX7RvKqWxxBv10WLNl/view?usp=drivesdk).
 
 Let's create a smarter, more automated future together! 🤝🤖
 
