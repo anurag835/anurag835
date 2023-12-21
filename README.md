@@ -6,9 +6,9 @@
 <h2 align="center"> I'm Anurag Sah, <img src="https://readme-typing-svg.herokuapp.com?font=Urbanist&width=200&vCenter=true&height=18&color=0074C8&lines=a+Passionate+Coder;a+Software+Engineer;a+Quick+Learner;a+Multitasker"></h2>
 
 ## About Me
-### 👨‍💻 Experienced Python Developer | Django Enthusiast | AWS Enthusiast 👨‍💻
+### 👨‍💻 Experienced Python Developer | Django Enthusiast | AWS Enthusiast | ETL PipeLine 👨‍💻|
 
-Hello there! 👋 I'm a highly skilled Python developer with over 2 years of hands-on experience in crafting robust backend systems. My expertise lies in developing, deploying, and maintaining Python-based web applications and RESTful APIs. I specialize in Django and Django Rest Framework (DRF) and have a strong command of Django-ORM Queries. I thrive on creating modular, scalable, and efficient solutions.
+Hello there! 👋 I'm a highly skilled Python developer with over 2 years of hands-on experience in crafting robust backend systems. My expertise lies in developing, deploying, and maintaining Python-based web applications and RESTful APIs. I specialize in Django, Flask and Django Rest Framework (DRF) and have a strong command of Django-ORM Queries. I thrive on creating modular, scalable, and efficient solutions. 
 
 ## 🚀 What I Do
 - Develop and deploy Python-based web applications and RESTful APIs.
@@ -16,6 +16,7 @@ Hello there! 👋 I'm a highly skilled Python developer with over 2 years of han
 - Integrate third-party software components for seamless functionality.
 - Optimize code and ensure high performance.
 - Experienced with AWS EC2 for deployment.
+- Experienced with ETL with Pandas.
 - Exposure to various big data tools including Airflow, Kafka etc.
 
 ## 🌟 Currently...
@@ -27,6 +28,8 @@ I'm working with *NeoSoft Private Limited*, where I continue to expand my skill 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=Django&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=Flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=Pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=NumPy&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
