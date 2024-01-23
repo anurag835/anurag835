@@ -12,7 +12,7 @@ Hello there! 👋 I'm a highly skilled Python developer with over 2 years of han
 
 ## 🚀 What I Do
 - Develop and deploy Python-based web applications and RESTful APIs.
-- Create modular and efficient microservices using Python and Django.
+- Create modular and efficient microservices using Python and it's framework.
 - Integrate third-party software components for seamless functionality.
 - Optimize code and ensure high performance.
 - Experienced with AWS EC2 for deployment.
