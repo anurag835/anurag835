@@ -64,7 +64,7 @@ I'm working with *NeoSoft Private Limited*, where I continue to expand my skill 
 - 💬 Want to discuss about technologies, share ideas, or collaborate on a project? Feel free to reach out to me!
 - 📱 Connect with me on [LinkedIn](https://www.linkedin.com/in/anuragkumar15/) for more about my professional journey.
 - 📧 You can also reach me via email at [anuragss2311@gmail.com](mailto:anuragss2311@gmail.com).
-- 📈 Check my resume here [Resume](https://drive.google.com/file/d/1aaiuMZB2bZ97YqnX7RvKqWxxBv10WLNl/view?usp=drivesdk).
+- 📈 Check my resume here [Resume](https://drive.google.com/file/d/1V9jWiLlrcVar1p_umeUj87ibHO3gWhKD/view?usp=drivesdk.
 
 Let's create a smarter, more automated future together! 🤝🤖
 
